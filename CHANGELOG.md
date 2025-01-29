@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/FelipeOliveiraDvP/automatic-release-poc/compare/v1.0.0...v1.0.1) (2025-01-29)
+
+
+### Bug Fixes
+
+* update README to include a test section ([d1be558](https://github.com/FelipeOliveiraDvP/automatic-release-poc/commit/d1be558bef748ad6e609f003c9e86ce29894d50d))
+
 ## 1.0.0 (2025-01-29)
 
 
